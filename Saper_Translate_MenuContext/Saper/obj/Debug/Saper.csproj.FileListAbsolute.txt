@@ -1,0 +1,12 @@
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\bin\Debug\Saper.exe.config
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\bin\Debug\Saper.exe
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\bin\Debug\Saper.pdb
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.exe
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.pdb
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.Form1.resources
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.Form2.resources
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.FormNewUser.resources
+D:\MY\PROGECT_C++\WIN_FORMS\HomeWork\12_07_MENU_SAPER\Saper\Saper\obj\Debug\Saper.FormChempions.resources
